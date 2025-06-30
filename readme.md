@@ -2,6 +2,10 @@ NET Sathi Connect VPN - Quick Installation and Connection Guide
 
 Thank you for choosing NET Sathi Connect VPN! Follow these steps to install and use the application.
 
+Step 0: Downloading the Software
+   *    On the Github Repo click on the Code button.
+   *    Click on Download as Zip option to download the whole package as a single zip file.
+
 Part 1: Installing the Application
 
 1.  Extract All Files:
