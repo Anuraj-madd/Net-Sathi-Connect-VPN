@@ -1,5 +1,5 @@
 NET Sathi Connect VPN - Quick Installation and Connection Guide
-
+---
 Thank you for choosing NET Sathi Connect VPN! Follow these steps to install and use the application.
 
 Step 0: Downloading the Software
@@ -74,7 +74,8 @@ Part 2: Connecting to Your VPN
     *   When you want to disconnect, simply click the "🔒 Disconnect" button in the application.
     *   A confirmation message will appear when you are disconnected.
 
-If you encounter any issues, please re-check your credentials and server details. 
+If you encounter any issues, please re-check your credentials and server details.
+
 ---
 Developer Message: 
     *   Software By : Anuraj Maddhesiya (https://cybernetic.co.in).
