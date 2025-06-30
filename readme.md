@@ -75,5 +75,7 @@ Part 2: Connecting to Your VPN
     *   A confirmation message will appear when you are disconnected.
 
 If you encounter any issues, please re-check your credentials and server details. 
-    *   Software By : Anuraj Maddhesiya (https://cybernetic.co.in)<br>
+---
+Developer Message: 
+    *   Software By : Anuraj Maddhesiya (https://cybernetic.co.in).
     *   For support or inquiries, please refer to the contact information provided by the software distributor.
