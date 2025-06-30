@@ -78,5 +78,5 @@ If you encounter any issues, please re-check your credentials and server details
 
 ---
 Developer Information:
-    Software by: Anuraj Maddhesiya
+     *   Software by: Anuraj Maddhesiya
 For support or inquiries, please refer to the contact information provided by the software distributor. 
